@@ -1,0 +1,16 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Shared ResourceManager audio sample" },
+    { "name": "EntryAbility_desc", "value": "Guarded audio initialization and shared ability context" },
+    { "name": "EntryAbility_label", "value": "Shared Audio" },
+    { "name": "audio_ready", "value": "Ready to play" },
+    { "name": "audio_loading", "value": "Preparing audio..." },
+    { "name": "audio_error", "value": "Audio unavailable. Try again." },
+    { "name": "play_tone", "value": "Play tone" },
+    { "name": "check_guard", "value": "Initialize again" },
+    { "name": "retry", "value": "Retry" },
+    { "name": "initialization_count", "value": "Initializations: %1$d" },
+    { "name": "resource_size", "value": "tone.wav · %1$d bytes" },
+    { "name": "resource_error", "value": "Resource unavailable" }
+  ]
+}
